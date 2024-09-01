@@ -16,7 +16,3 @@ h2 = House('Домик в деревне', 2)
 h1.go_to(5)
 h2.go_to(10)
 
-#print(h1.name, h1.namber_of_floors)
-#print(h2.name, h2.namber_of_floors)
-
-#new_floor.go_to(5)
